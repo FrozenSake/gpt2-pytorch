@@ -8,7 +8,7 @@ This is partially cobbled together from multiple sources on the web, but mostly 
 ! Unclear if these are needed for this one, I had done them previously to my attempt !
 
 
-- [ ] Install cuda <some version>
+- [ ] Install cuda, 11.2 worked for my card
 - [ ] Install cudnn for cuda version you installed
 
 
