@@ -23,6 +23,7 @@ This is partially cobbled together from multiple sources on the web, but mostly 
 - [ ] conda activate gpt2-pytorch
 - [ ] conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 - [ ] conda install -c huggingface transformers
+- [ ] `pip install -r requirements.txt`
 - [ ] mkdir models/1558MPytorch
 - [ ] Download: config.json, tokenizer.json, vocab.json, pytorch_model.bin, merges.txt || from: https://huggingface.co/gpt2-xl/tree/main || to: models/1558MPytorch
 - [ ] Optional: change the `test.txt` file to have a different prompt
